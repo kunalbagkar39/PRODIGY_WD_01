@@ -93,9 +93,9 @@ navigation-menu/
 
 ## 👩‍💻 Author
 
-Triveni Dabholkar  
+Kunal Bagkar 
 
-GitHub: (https://github.com/trivenidabholkar-dev/PRODIGY_WD_01.git)
+GitHub: (https://github.com/kunalbagkar39/PRODIGY_WD_01.git)
 
 ---
 
